@@ -2,7 +2,7 @@
 **Tagline:** Collaborative Coding, Seamlessly Shared
 
 ## Executive Summary
-CodeSync is an innovative web-based collaborative code editing and sharing platform designed to revolutionize how developers, teams, and learners work together on coding projects.
+CodeTogether is an innovative web-based collaborative code editing and sharing platform designed to revolutionize how developers, teams, and learners work together on coding projects.
 
 ## Core Features and Functionality
 
